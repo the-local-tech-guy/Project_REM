@@ -18,11 +18,7 @@ _An old-school, ASCII-flavored dungeon crawler built in Android Studio._
 - [Controls](#-controls)
 - [How It Works (Under the Hood)](#-how-it-works-under-the-hood)
 - [Install & Run](#-install--run)
-- [Save Data Format](#-save-data-format)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Community](#-community)
+
 
 ---
 
