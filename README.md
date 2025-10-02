@@ -16,7 +16,6 @@ _An old-school, ASCII-flavored dungeon crawler built in Android Studio._
 - [Core Features](#-core-features)
 - [Gameplay Loop](#-gameplay-loop)
 - [Controls](#-controls)
-- [Screenshots](#-screenshots)
 - [How It Works (Under the Hood)](#-how-it-works-under-the-hood)
 - [Install & Run](#-install--run)
 - [Save Data Format](#-save-data-format)
@@ -72,22 +71,7 @@ _An old-school, ASCII-flavored dungeon crawler built in Android Studio._
   - **Tap Item** → Equip (Weapon/Armor) or Use (Consumable)
 - **Rest**: Recover energy; advances turns (seekers may move).
 
----
 
-## 🖼️ Screenshots
-> Put images in `assets/screenshots/` and update the links below.
-
-<p align="center">
-  <img src="assets/screenshots/overworld.png" alt="Overworld" width="45%">
-  <img src="assets/screenshots/dungeon.png" alt="Dungeon" width="45%">
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/inventory.png" alt="Inventory" width="45%">
-  <img src="assets/screenshots/shop.png" alt="Shop" width="45%">
-</p>
-
----
 
 ## 🔬 How It Works (Under the Hood)
 - **World Generation**  
