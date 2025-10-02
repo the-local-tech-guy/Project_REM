@@ -90,11 +90,6 @@ _An old-school, ASCII-flavored dungeon crawler built in Android Studio._
 - Java 8+ (project uses Java + XML)
 
 
-**Build Steps**
-1. **Clone** the repo:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-
 
 
 **Install Directly to Your Android Device**
